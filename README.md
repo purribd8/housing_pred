@@ -6,9 +6,9 @@ This project uses a machine learning pipeline to predict missing house_size valu
 📂 Data Sources
 Due to GitHub's 25MB file upload limit, the full CSV files are hosted externally:
 
-🔗 View genhousedata.csv here(https://drive.google.com/file/d/1T0XZzCm0TsEVoMyUK4v75oMk6dFIUT0o/view?usp=sharing) – Original dataset containing missing house_size entries.
+🔗 [View genhousedata.csv here](https://drive.google.com/file/d/1T0XZzCm0TsEVoMyUK4v75oMk6dFIUT0o/view?usp=sharing) – Original dataset containing missing house_size entries.
 
-🔗 View genhousedata_filled.csv here(https://drive.google.com/file/d/1bqhySJn2t658kAxBMl0J2Up9lcmkWr1D/view?usp=sharing) – Dataset after filling in missing values using the trained model.
+🔗 [View genhousedata_filled.csv here](https://drive.google.com/file/d/1bqhySJn2t658kAxBMl0J2Up9lcmkWr1D/view?usp=sharing) – Dataset after filling in missing values using the trained model.
 
 🧠 Highlights
 Identified and excluded outliers using the IQR method.
